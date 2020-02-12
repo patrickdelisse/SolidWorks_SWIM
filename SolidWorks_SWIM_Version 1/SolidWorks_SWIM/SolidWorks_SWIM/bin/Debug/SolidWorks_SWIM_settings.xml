@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <TC_server>\\TC-TST02</TC_server>
+  <TC_bat>PLMShare\PLM_Startup\Startups\bin\_KMWE_PLM_start.bat</TC_bat>
+  <SW_portal>SWIM</SW_portal>
+  <TC_FixedSW>no</TC_FixedSW>
+  <TC_FixedSWver>2018</TC_FixedSWver>
+  <SWselect>
+    <Versions>
+      <SW_AppName>2016</SW_AppName>
+      <SW_AppName>2018</SW_AppName>
+    </Versions>
+  </SWselect>
+</root>
